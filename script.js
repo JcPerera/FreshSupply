@@ -54,7 +54,7 @@ const onChangeHandler = (value, cellData) => {
 const buildCellElement = (cellData) => {
     const cell = document.createElement("input");
     cell.className = cellData.isHeader ? "cell header" : "cell";
-    cell.id = "cell-" + cellId;
+    cell.id = "cell-" + cellData.cellId;
     cell.value = cellData.data;
     cell.disabled = cellData.isHeader;
     cell.onchange = (e) => onChangeHandler(e.target.value, cellData)

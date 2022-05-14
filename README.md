@@ -1,6 +1,8 @@
 # FreshSupply
 This Project can be viewed using this link [fsco.janaka.me](https://fsco.janaka.me/)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2d6515ce-935a-4b73-86a7-bb708ada19dd/deploy-status)](https://app.netlify.com/sites/freshsupply/deploys)
+
 ## Implemented Steps
 1. Created index.html and pure Js file
 2. Draw a 100x100 grid of cells,with columns labelled A-Z, AA, AB, AC, etc. and rows numbered 1 to 100.

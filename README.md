@@ -1,7 +1,7 @@
 # FreshSupply
-This Project can be viewed using this link [fsco.janaka.me](https://fsco.janaka.me/)
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> This Project can be viewed using this link [fsco.janaka.me](https://fsco.janaka.me/)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2d6515ce-935a-4b73-86a7-bb708ada19dd/deploy-status)](https://app.netlify.com/sites/freshsupply/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2d6515ce-935a-4b73-86a7-bb708ada19dd/deploy-status)](https://app.netlify.com/sites/freshsupply/deploys) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=JcPerera.FreshSupply)
 
 ## Implemented Steps
 1. Created index.html and pure Js file

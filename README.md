@@ -25,7 +25,7 @@
 - get the data value from relevent cells
 - use the  arithmetic operator and find the final value and update the cell
 
-### basic formulas
+### basic functions
 - similar to basic formula use another regex funtion to find the start and end cells and the arithmetic operator
 - similar to basic formula
 
